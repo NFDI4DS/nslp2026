@@ -10,19 +10,17 @@ This workshop aims to attract researchers who use methods or technologies from t
 
 Topics of interest include, but are not limited to:
 
-* Research/Scientific Knowledge Graphs (RKGs/SKGs) and other forms of Structured Scientific Knowledge Representation
-* Information Extraction for RKGs/SKGs
-* Question Answering over RKGs/SKGs
-* Scientific LLMs: LLMs for Natural Scientific Language Processing
-* Natural Scientific Language Processing (monolingual, cross-lingual, multilingual)
-* Language Resources and Language Technologies for Natural   Scientific Language Processing
-* Information Extraction from Scholarly Publications
-* Classification of Scholarly Publications (document collections, individual documents, parts of documents)
-* Summarisation of Scholarly Articles
-* Scholarly Information Retrieval and Scientific Search Engines 
-* Digital Libraries of Scholarly Information
-* Metadata and Cataloging 
-* Bibliometrics and Scientometrics 
-* Domain-specific Adaptation of Natural Language Processing (NLP) methods for NSLP purposes
-* Micropublications and Nanopublications
-
+* Scientific LLMs: LLMs for NSLP
+* Language resources (LRs) and Language technologies (LTs) for NSLP beyond LLMs
+* Information extraction from scholarly articles
+* Extraction of research information from texts
+* Detection and disambiguation of mentions of datasets, tasks, software or other methods
+* Classification of scholarly articles (collections, single documents, parts of documents)
+* Research Knowledge Graphs (RKGs) and other forms of structured knowledge representation
+* Information extraction for RKGs
+* Summarisation of scholarly articles
+* Scholarly IR and scientific search engines
+* Question answering over scientific knowledge
+* Metadata and cataloging
+* Cross-lingual and multilingual natural scientific language processing
+* Adaptation of NLP methods for NSLP purposes
