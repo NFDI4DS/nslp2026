@@ -1,47 +1,12 @@
 ---
 layout: default
-title: ReadMe2KG shared task
+title: SOMDi shared task
 nav_order: 6
 ---
 
-# ReadMe2KG: Github ReadMe to Knowledge Graph
+# SOMDi2026: Software Mention Disambiguation
 
-The vision of NFDI4DataScience (NFDI4DS) is to support all steps of the complex and interdisciplinary research data lifecycle, including collecting/creating, processing, analyzing, publishing, archiving, and reusing resources in Data Science and Artificial Intelligence. GitHub is a popular platform for hosting and collaborating on software projects. In the context of research, authors can use GitHub repositories to share the datasets, models, and source code of experiments in the paper. These repositories can provide implementation details and facilitate the exploration and reproduction of research results. Each GitHub repository typically includes a README.md file, which serves as an introductory document for the project. READMEs are usually written in Markdown format and provide key information such as the project’s purpose, setup instructions, usage examples, and often links to the original research paper. Aiming to enhance the NDFI4DS-KG[1] with information from GitHub README files, a fine-grained Named Entity Recognition task is proposed.
-
-
-Participants will develop classifiers that take README files as input and output the mentions of the 10 entity types in the NFDI4DS Ontology (NFDI4DSO [2]): “Conference”, “Dataset”, “Evaluation Metric”, “License”, “Ontology”, “Programming Language”, “Project”, “Publication”, “Software” and ”Workshop”. A dataset with approximately 160 README.md files will be made available to train the classifiers.
-
-More details are available at the [ReadMe2KG competition website](https://www.codabench.org/competitions/5396/).
-
-**Organisers**
-
-* Genet Asefa Gesese (FIZ Karlsruhe, Germany)
-* Zongxiong Chen (Fraunhofer FOKUS, Germany)
-* Shufan Jiang (FIZ Karlsruhe, Germany)
-* Mary Ann Tan (FIZ Karlsruhe, Germany)
-* Sonja Schimmler (Fraunhofer FOKUS, Germany)
-
-**Contact**
-
-* Genet Asefa Gesese (genet-asefa.gesese@fiz-karlsruhe.de)
-* Zongxiong Chen (zongxiong.chen@fokus.fraunhofer.de)
-* Shufan Jiang (shfuan.jiang@fiz-karlsruhe.de)
-
-**Important dates**
-
-*  Release of training datasets: January 25, 2025
-*  Release of testing datasets: ~~February 15, 2025~~ March 18, 2025
-*  Deadline for system submissions: ~~February 22, 2025~~  March 25, 2025
-*  Paper submission deadline: ~~March 6, 2025~~ March 27, 2025
-*  Notification of acceptance: ~~April 3, 2025~~ April 10, 2025
-*  Camera-ready submission: April 17, 2025
-*  Workshop: June 1 or 2 2025
-
-All deadlines are 23:59 UTC-12:00 (“anywhere on Earth”).
-
-References:
-
-
-[1] NFDI4DS-KG [https://nfdi.fiz-karlsruhe.de/4ds/sparql](https://nfdi.fiz-karlsruhe.de/4ds/sparql), [https://nfdi.fiz-karlsruhe.de/4ds/shmarql](https://nfdi.fiz-karlsruhe.de/4ds/shmarql)
-
-[2] Genet Asefa Gesese et al. “NFDI4DSO: Towards a BFO Compliant Ontology for Data Science”. In: arXiv preprint arXiv:2408.08698 (2024).
+Understanding software mentions is crucial for reproducibility and to interpret experimental results. Citations of software are often informal, lacking the use of persistent identifiers, making it hard to infer and disambiguate knowledge about software efficiently. This task will build on SOMD 2025 (run at SDP 2025, co-located with ACL 2025) and focus on entity disambiguation as an under-investigated problem in this context. More precisely, SOMDi2026 will tackle the following tasks:
+1. Corerference resolution of software mentions: Given a pair (E1, E2) of software entities, determine whether they refer to the same real-world software. 
+2. Entity disambiguation: Similar to the first subtask. However, a set of target software entities is provided. Participants should disambiguate provided entity mentions to this target set. 
+3. Large-scale entity disambiguation: The entity disambiguation task for software mentions is conducted on a larger training and validation set, thus increasing the space for disambiguation to cover entities in approximately a million scientific articles. 
