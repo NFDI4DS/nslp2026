@@ -8,8 +8,8 @@ nav_order: 9
 
 * [Georg Rehm](http://georg-re.hm) (DFKI & HU Berlin, Germany)
 * [Stefan Dietze](http://stefandietze.net) (GESIS Leibniz Institut für Sozialwissenschaften, Cologne & Heinrich-Heine-University Düsseldorf, Germany)
-* Danilo Dessí (University of Sharjah, UAE)
-* Diana Maynard (University of Sheffield, UK)
+* [Danilo Dessí](https://danilo-dessi.github.io/) (University of Sharjah, UAE)
+* [Diana Maynard](https://sheffield.ac.uk/cs/people/research-staff/diana-maynard) (University of Sheffield, UK)
 * [Sonja Schimmler](https://sites.google.com/view/sonjaschimmler/biography) (Technical University of Berlin & Fraunhofer FOKUS, Germany)
 
 # Programme committee
