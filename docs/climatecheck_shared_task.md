@@ -14,5 +14,11 @@ The rise of climate discourse on social media offers new channels for public eng
 New training data will be released for both tasks, with task 1 having triple the amount of the last iteration. The new iteration will focus on sustainability, emphasising the need to build climate-friendly NLP systems with minimal environmental impact. 
 
 
-More information on data, organisrs, and important dates will be available soon.
+More information on data, and important dates will be available soon.
 
+Shared task organisers: 
+
+* Raia Abu Ahmad (DFKI Berlin)
+* Aida Usmanova (Leuphana University of Lüneburg)
+* Max Upravitelev (Technische Universität Berlin)
+* Georg Rehm (DFKI Berlin)
