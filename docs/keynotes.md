@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Keynote speaker
+title: Keynote speakers
 nav_order: 10
 ---
 
