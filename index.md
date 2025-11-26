@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# Natural Scientific Language Processing and Research Knowledge Graphs (NSLP 2026)
+# 3rd International Workshop on Natural Scientific Language Processing (NSLP 2026)
 
 <table>
   <tr>
