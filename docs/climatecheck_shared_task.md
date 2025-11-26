@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ClimateCheck shared task
-nav_order: 6
+nav_order: 5
 ---
 
 # ClimateCheck 2026: Scientific Fact-Checking of Social Media Claims
