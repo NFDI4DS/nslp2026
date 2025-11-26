@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SciVQA shared task
-nav_order: 5
+nav_order: 6
 ---
 
 # SciVQA 2026: Scientific Visual Question Answering
