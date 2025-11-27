@@ -19,5 +19,5 @@ More information on data releases and important dates will be available soon!
 
 * Raia Abu Ahmad (DFKI Berlin)
 * Aida Usmanova (Leuphana University of Lüneburg)
-* Max Upravitelev (Technische Universität Berlin)
+* Max Upravitelev (XplaiNLP Group, Technische Universität Berlin)
 * Georg Rehm (DFKI Berlin)
