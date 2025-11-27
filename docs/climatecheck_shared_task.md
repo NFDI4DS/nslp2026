@@ -15,7 +15,7 @@ New training data will be released for both tasks, with task 1 having triple the
 
 More information on data releases and important dates will be available soon!
 
-Shared task organisers: 
+**Shared task organisers:** 
 
 * Raia Abu Ahmad (DFKI Berlin)
 * Aida Usmanova (Leuphana University of Lüneburg)
