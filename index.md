@@ -18,7 +18,7 @@ permalink: /
     <br/><br/>
     <strong>Co-located with <a href="https://www.elra.info/lrec2026/" target="_blank">LREC 2026</a></strong>
     <br/>
-    <strong><span>May 11, 12, or 16, 2026 (TBA)</span></strong>
+    <strong><span>May 12</span></strong>
     <br/>
     <strong>Palma de Mallorca, Spain</strong>
     </td>
@@ -42,7 +42,7 @@ Participants can sign up for one or more (sub-)tasks. Automated evaluations of s
 * Paper submission deadline: **February 20, 2026 (tbc; not to be extended)**
 * Notification of acceptance: **March 13, 2026 (tentative)**
 * Camera-ready submission: **March 27, 2026 (tentative)**
-* Workshop: **<span>May 11/12/16, 2026 (concrete date to be announced)</span>**
+* Workshop: **<span>May 12, 2026</span>**
 
 All deadlines are 23:59 UTC-12:00 (“anywhere on Earth”).
 
