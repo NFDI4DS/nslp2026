@@ -18,7 +18,7 @@ permalink: /
     <br/><br/>
     <strong>Co-located with <a href="https://www.elra.info/lrec2026/" target="_blank">LREC 2026</a></strong>
     <br/>
-    <strong><span>May 12</span></strong>
+    <strong><span>May 12, 2026</span></strong>
     <br/>
     <strong>Palma de Mallorca, Spain</strong>
     </td>
