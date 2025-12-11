@@ -33,7 +33,7 @@ In addition, the workshop offers **three shared tasks**:
 
 * [ClimateCheck 2026: Scientific Fact-Checking of Social Media Claims](https://nfdi4ds.github.io/nslp2026/docs/climatecheck_shared_task.html)
 * [SciVQA 2026: Scientific Visual Question Answering](https://nfdi4ds.github.io/nslp2026/docs/scivqa_shared_task.html)
-* [SOMDi 2026: Software Mention Disambiguation](https://nfdi4ds.github.io/nslp2026/docs/somdi_shared_task.html)
+* [SOMD 2026: Software Mention Disambiguation and Coreference Resolution](https://nfdi4ds.github.io/nslp2026/docs/somd_shared_task.html)
   
 Participants can sign up for one or more (sub-)tasks. Automated evaluations of submitted systems are done through the Codabench platform.
 
