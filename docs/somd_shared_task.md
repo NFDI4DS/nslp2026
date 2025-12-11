@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SOMDi shared task
+title: SOMD shared task
 nav_order: 6
 ---
 
