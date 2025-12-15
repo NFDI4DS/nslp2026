@@ -14,7 +14,7 @@ The rise of climate discourse on social media offers new channels for public eng
 <div style="color: #ff826e;">
 What's new in the 2026 iteration?
 </div>
-* We released triple the amount of training data for task 1, enabling the development of more robust systems.
+* We released triple the amount of training data for task 1, enabling the development of more robust systems. The dataset is already available on [HuggingFace](https://huggingface.co/datasets/rabuahmad/climatecheck). 
 * We're introducing a new task, disinformation narrative classification, which deals with identifying well-known climate disinformation narratives in our claims to potentially help with training systems for task 1.
 * We're focusing on environmentally-friendly solutions, motivated by the system submissions from the 2025 iteration, which mostly used (commercial) LLMs. Our goal for this iteration is to motivate participants to develop reproducible and sustainable solutions to fact-check climate-related claims. 
 
@@ -48,6 +48,8 @@ The dataset for task 1 will follow the same structure as the 2025 iteration, but
 
 In addition, this year’s iteration will focus on coming up with sustainable solutions, encouraging the development of systems that can potentially be used in real-world scenarios. Thus, we will ask participants to use the CodeCarbon library when running the test inference to measure emission rates and energy consumption. This will not, however, be counted towards the final rankings. 
 
+The dataset for task 1 is available on [HuggingFace](https://huggingface.co/datasets/rabuahmad/climatecheck); the claims in the test set will be the same as they 2025 iteration. The abstracts corpus for retrieval also remains unchanged and is available on [HuggingFace](https://huggingface.co/datasets/rabuahmad/climatecheck_publications_corpus). 
+
 **Task 2: Disinformation narrative classification**
 
 The dataset for task 2 will consist of the same claims used for task 1, each annotated with labels denoting whether the claim is an example of a known climate disinformation narrative, and if so, which one(s). We follow the CARDS taxonomy (levels 1 and 2) developed by Rojas et al. (2024) to label our claims in a multi-label manner. Results will be evaluated using macro-, micro- and weighted-F1 scores.   
@@ -56,12 +58,15 @@ The dataset for task 2 will consist of the same claims used for task 1, each ann
 Participants can take part in task 1, task 2, or both tasks (better yet - think of ways to incorporate task 2 into the task 1 pipeline!).
 </div>
 
+More information will be available soon regarding registration via Codabench and how to use CodeCarbon at inference to track emissions. In the meantime, the [dummy competition](https://www.codabench.org/competitions/8304/) from last year's iteration is available, which you can test your task 1 predictions on, since the same test set will be used. However, note that we will add an automatic evaluation metric for unannotated documents; thus the results might not be accurate but they can give a good indication!
+
 ## Shared task organisers:
 
-* Raia Abu Ahmad (DFKI Berlin)
-* Aida Usmanova (Leuphana University of Lüneburg)
-* Max Upravitelev (XplaiNLP Group, Technische Universität Berlin)
-* Georg Rehm (DFKI Berlin)
+* <a href="mailto:raia.abu_ahmad@dfki.de">Raia Abu Ahmad (DFKI Berlin)</a>
+* <a href="mailto:aida.usmanova@stud.leuphana.de">Aida Usmanova (Leuphana University of Lüneburg)</a>
+* <a href="mailto:max.upravitelev@tu-berlin.de">Max Upravitelev (XplaiNLP Group, Technische Universität Berlin)</a>
+* <a href="mailto:georg.rehm@dfki.de">Georg Rehm (DFKI Berlin)</a>
+
 
 ## References and further reading:
 * Abu Ahmad, R., Usmanova, A., & Rehm, G. (2025, July). [The ClimateCheck shared task: Scientific fact-checking of social media claims about climate change](https://aclanthology.org/2025.sdp-1.24.pdf). In Proceedings of the Fifth Workshop on Scholarly Document Processing (SDP 2025) (pp. 263-275).
