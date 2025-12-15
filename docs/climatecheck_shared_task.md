@@ -3,8 +3,11 @@ layout: default
 title: ClimateCheck shared task
 nav_order: 5
 ---
+<div align="center" style="margin: 0px auto;"> 
+<img width="450" height="500" src="../climatecheck_logo.png" alt="climatecheck_logo" />
 
-# ClimateCheck 2026: Scientific Fact-Checking of Social Media Claims
+# Shared Task on Scientific Fact-Checking and Disinformation Narrative Classification of Climate-related Claims
+</div>
 
 The rise of climate discourse on social media offers new channels for public engagement but also amplifies mis- and disinformation. As online platforms increasingly shape public understanding of science, tools that ground claims in trustworthy, peer-reviewed evidence are necessary. The new 2026 iteration of ClimateCheck builds on the results and insights from the 2025 iteration (run at SDP 2025/ACL 2025), extending it by adding training data, a new task on classifying disinformation narratives in climate discourse, and a focus on sustainable solutions.
 
