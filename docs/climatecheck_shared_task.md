@@ -14,9 +14,9 @@ The rise of climate discourse on social media offers new channels for public eng
 <div style="color: #ff826e;">
 What's new in the 2026 iteration?
 </div>
-* We released triple the amount of training data, enabling the development of more robust systems.
-* We're introducing a new task: disinformation narrative classification, which deals with identifying well-known climate disinformation narratives in our claims to potentially help with training systems for task 1.
-* We're focusing on environmentally-friendly solutions, motivated byt the system submissions from the 2025 iteration. The goal is to motivate participants to develop reproducible and sustainable solutions to fact-check climate-related claims. 
+* We released triple the amount of training data for task 1, enabling the development of more robust systems.
+* We're introducing a new task, disinformation narrative classification, which deals with identifying well-known climate disinformation narratives in our claims to potentially help with training systems for task 1.
+* We're focusing on environmentally-friendly solutions, motivated by the system submissions from the 2025 iteration, which mostly used (commercial) LLMs. Our goal for this iteration is to motivate participants to develop reproducible and sustainable solutions to fact-check climate-related claims. 
 
 ## Tasks Overview
 
@@ -41,7 +41,7 @@ The following tasks are available:
 We encourage and invite participation from junior researchers and students from diverse backgrounds. Participants are also highly encouraged to submit a paper describing their systems to the NSLP 2026 workshop. 
 
 ## Datasets, Evaluation, and Rankings
-
+<br/>
 **Task 1: Abstract retrieval and claim verification**
 
 The dataset for task 1 will follow the same structure as the 2025 iteration, but with triple the amount of available training data. We will evaluate systems on both abstract retrieval and claim verification tasks in an end-to-end manner. Abstracts retrieval will be evaluated using Recall@K and B-Pref, while claim verification will be evaluated using weighted F1 scores. Gold annotations will be used for both, with an LLM-as-a-judge approach to evaluate incomplete judgments iteratively. 
