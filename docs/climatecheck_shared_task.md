@@ -15,13 +15,15 @@ The rise of climate discourse on social media offers new channels for public eng
 
 The following tasks are available: 
 
-* **Task 1: Abstract retrieval and claim verification**: given a claim and a corpus of publications, retrieve the top 5 most relevant abstracts and classify each claim-abstract pair as supports, refutes, or not enough information.
+* **Task 1: Abstract retrieval and claim verification**: given a claim and a corpus of publications, retrieve the top 5 most relevant abstracts and classify each claim-abstract pair as supports, refutes, or not enough information. <br/>
   **Evaluation**: Recall@K (K=2, 5) and B-Pref (for retrieval) + Weighted F1 (for verification) based on gold data; additional unannotated documents will be evaluated automatically. In addition, we will ask participants to use [CodeCarbon](https://codecarbon.io/) to assess emissions and energy consumption at test inference.
   
-* **Task 2: Disinformation narrative classification**: given a claim, predict which climate disinformation narrative exists according to a predefined taxonomy.
+* **Task 2: Disinformation narrative classification**: given a claim, predict which climate disinformation narrative exists according to a predefined taxonomy. <br/>
   **Evaluation**: Macro-, micro-, and weighted-F1 scores based on annotated documents. 
-   
+
+<div style="color: #ff826e;">
 New training data will be released for both tasks, with task 1 having triple the amount of the last iteration. The new iteration will focus on sustainability, emphasising the need to build climate-friendly NLP systems with minimal environmental impact. 
+</div>
 
 ## Important Dates
 
@@ -47,7 +49,9 @@ In addition, this year’s iteration will focus on coming up with sustainable so
 
 The dataset for task 2 will consist of the same claims used for task 1, each annotated with labels denoting whether the claim is an example of a known climate disinformation narrative, and if so, which one(s). We follow the CARDS taxonomy (levels 1 and 2) developed by Rojas et al. (2024) to label our claims in a multi-label manner. Results will be evaluated using macro-, micro- and weighted-F1 scores.   
 
+<div style="color: #ff826e;">
 Participants can take part in task 1, task 2, or both tasks (better yet - think of ways to incorporate task 2 into the task 1 pipeline!).
+</div>
 
 ## Shared task organisers:
 
