@@ -11,6 +11,13 @@ nav_order: 5
 
 The rise of climate discourse on social media offers new channels for public engagement but also amplifies mis- and disinformation. As online platforms increasingly shape public understanding of science, tools that ground claims in trustworthy, peer-reviewed evidence are necessary. The new 2026 iteration of ClimateCheck builds on the results and insights from the 2025 iteration (run at SDP 2025/ACL 2025), extending it by adding training data, a new task on classifying disinformation narratives in climate discourse, and a focus on sustainable solutions.
 
+<div style="color: #ff826e;">
+What's new in the 2026 iteration?
+</div>
+* We released triple the amount of training data, enabling the development of more robust systems.
+* We're introducing a new task: disinformation narrative classification, which deals with identifying well-known climate disinformation narratives in our claims to potentially help with training systems for task 1.
+* We're focusing on environmentally-friendly solutions, motivated byt the system submissions from the 2025 iteration. The goal is to motivate participants to develop reproducible and sustainable solutions to fact-check climate-related claims. 
+
 ## Tasks Overview
 
 The following tasks are available: 
@@ -20,10 +27,6 @@ The following tasks are available:
   
 * **Task 2: Disinformation narrative classification**: given a claim, predict which climate disinformation narrative exists according to a predefined taxonomy. <br/>
   **Evaluation**: Macro-, micro-, and weighted-F1 scores based on annotated documents. 
-
-<div style="color: #ff826e;">
-New training data will be released for both tasks, with task 1 having triple the amount of the last iteration. The new iteration will focus on sustainability, emphasising the need to build climate-friendly NLP systems with minimal environmental impact. 
-</div>
 
 ## Important Dates
 
