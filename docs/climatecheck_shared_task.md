@@ -45,6 +45,7 @@ We encourage and invite participation from junior researchers and students from 
 The dataset for both tasks is now available on [HuggingFace](https://huggingface.co/datasets/rabuahmad/climatecheck); the claims in the test set will be the same as they 2025 iteration. The abstracts corpus for retrieval (task 1) is available on [HuggingFace](https://huggingface.co/datasets/rabuahmad/climatecheck_publications_corpus). 
 
 <br/>
+
 **Task 1: Abstract retrieval and claim verification**
 
 The dataset for task 1 will follow the same structure as the 2025 iteration, but with triple the amount of available training data. We will evaluate systems on both abstract retrieval and claim verification tasks in an end-to-end manner. Abstracts retrieval will be evaluated using Recall@K and B-Pref, while claim verification will be evaluated using weighted F1 scores. Gold annotations will be used for both, with an LLM-as-a-judge approach to evaluate incomplete judgments iteratively. 
