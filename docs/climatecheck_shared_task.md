@@ -46,8 +46,6 @@ The dataset for both tasks is now available on [HuggingFace](https://huggingface
 
 Due to label imbalance in the dataset for both tasks, participants are allowed to ustilise external datasets and/or augment the data however they see fit. 
 
-<br/>
-
 **Task 1: Abstract retrieval and claim verification**
 
 The dataset for task 1 will follow the same structure as the 2025 iteration, but with triple the amount of available training data. We will evaluate systems on both abstract retrieval and claim verification tasks in an end-to-end manner. Abstracts retrieval will be evaluated using Recall@K and B-Pref, while claim verification will be evaluated using weighted F1 scores. Gold annotations will be used for both, with an LLM-as-a-judge approach to evaluate incomplete judgments iteratively. 
