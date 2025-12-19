@@ -10,7 +10,7 @@ nav_order: 6
 <h1> SOMD 2026: Software Mention Detection and Coreference Resolution </h1>
 </div>
 
-**Task Definition**
+**Task Definition** <br/>
 Software is a crucial entity in scientific research, and the identification of such artifacts enables an understanding of provenance and the methods involved in data handling. 
 One of the challenges in tracking software usage is that often different names are used for the same software due to abbreviations, geographical differences, or spelling variations (Schindler et al.). The task becomes even harder when considering multiple different documents, containing author specific variations. Hence, this underlines the importance of automatically identifying and disambiguating informally and inconsistently mentioned software. With the following three shared tasks, we aim to advance the resolution of software mentions across multiple documents (cross document coreference resolution). Additionally, we address problems such as a noisy dataset as resulting from automatic prediction and computational complexity affecting runtime as the volume of target texts increases. 
 
