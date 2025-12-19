@@ -7,8 +7,8 @@ nav_order: 6
 <img width="450" height="500" src="../somd_logo.png" alt="somd_logo" />
 <br/>
   
-# SOMD 2026: Software Mention Detection and Coreference Resolution
-
+<h1> SOMD 2026: Software Mention Detection and Coreference Resolution </h1>
+</div>
 We address the task of coreference resolution of software mentions across multiple documents, i.e. given a set of software mentions extracted from multiple scientific publications, related extracted attributes as well as sentences in which these occur, cluster these mentions so that all software mentions in a particular cluster refer to the same real world software. 
 This task will build on [SOMD 2025](https://sdproc.org/2025/sharedtasks.html#somd) (run at [SDP 2025](https://sdproc.org/2025/), co-located with ACL 2025) and focus on entity disambiguation via coreference resolution as an under-investigated problem in this context. More precisely, SOMDi2026 will tackle the following tasks:
 
