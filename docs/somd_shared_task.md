@@ -33,7 +33,7 @@ For this subtask, we provide predicted mentions of software and metadata at a la
 
 
 
-Shared task organisers: 
+## Shared task organisers: 
 
 * Sharmila Upadhyaya (GESIS Leibniz Institut für Sozialwissenschaften, Germany)
 
@@ -45,8 +45,11 @@ Shared task organisers:
 
 
 
-References
+## References
 
-* Schindler, David et al. “The role of software in science: a knowledge graph-based analysis of software mentions in PubMed Central.” PeerJ Computer Science 8 (2022): n. pag.
+[1] Krüger, Frank, et al. *SOMD@NSLP2024: Overview and Insights from the Software Mention Detection Shared Task*. In *Natural Scientific Language Processing and Research Knowledge Graphs*. Springer, 2024. https://doi.org/10.1007/978-3-031-65794-8_17
 
+[2] Schindler, David, et al. *SoMeSci: A 5 Star Open Data Gold Standard Knowledge Graph of Software Mentions in Scientific Articles*. arXiv:2108.09070, 2021. https://arxiv.org/abs/2108.09070
+
+[3] Upadhyaya, Sharmila, et al. *SOMD2025: A Challenging Shared Task for Software Related Information Extraction*. In *Proceedings of the Fifth Workshop on Scholarly Document Processing (SDP 2025)*. ACL, 2025. https://aclanthology.org/2025.sdp-1.13/
 
