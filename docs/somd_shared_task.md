@@ -23,13 +23,13 @@ For this subtask, we provide predicted mentions of software and metadata at a la
 
 ## Important Dates
 
-* Registration Opens: December 22–23, 2025
-* Train/Test Data Release (All Subtasks): January 10, 2026
-* Competition Phase: January 10 – February 10, 2026 (via Codabench,  link TBA)
-* System Paper & Code Submission Deadline: February 20, 2026
-* Notification of Acceptance: February 28, 2026
-* Camera-Ready Papers Due: March 27, 2026
-* Workshop Date: May 12, 2026
+  * Registration Opens: December 22–23, 2025
+  * Train/Test Data Release (All Subtasks): January 10, 2026
+  * Competition Phase: January 10 – February 10, 2026 (via Codabench,  link TBA)
+  * System Paper & Code Submission Deadline: February 20, 2026
+  * Notification of Acceptance: February 28, 2026
+  * Camera-Ready Papers Due: March 27, 2026
+  * Workshop Date: May 12, 2026
 
 
 
