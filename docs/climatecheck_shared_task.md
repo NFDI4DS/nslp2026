@@ -41,14 +41,15 @@ The following tasks are available:
 We encourage and invite participation from junior researchers and students from diverse backgrounds. Participants are also highly encouraged to submit a paper describing their systems to the NSLP 2026 workshop. 
 
 ## Datasets, Evaluation, and Rankings
+
+The dataset for both tasks is now available on [HuggingFace](https://huggingface.co/datasets/rabuahmad/climatecheck); the claims in the test set will be the same as they 2025 iteration. The abstracts corpus for retrieval (task 1) is available on [HuggingFace](https://huggingface.co/datasets/rabuahmad/climatecheck_publications_corpus). 
+
 <br/>
 **Task 1: Abstract retrieval and claim verification**
 
 The dataset for task 1 will follow the same structure as the 2025 iteration, but with triple the amount of available training data. We will evaluate systems on both abstract retrieval and claim verification tasks in an end-to-end manner. Abstracts retrieval will be evaluated using Recall@K and B-Pref, while claim verification will be evaluated using weighted F1 scores. Gold annotations will be used for both, with an LLM-as-a-judge approach to evaluate incomplete judgments iteratively. 
 
 In addition, this year’s iteration will focus on coming up with sustainable solutions, encouraging the development of systems that can potentially be used in real-world scenarios. Thus, we will ask participants to use the CodeCarbon library when running the test inference to measure emission rates and energy consumption. This will not, however, be counted towards the final rankings. 
-
-The dataset for task 1 is available on [HuggingFace](https://huggingface.co/datasets/rabuahmad/climatecheck); the claims in the test set will be the same as they 2025 iteration. The abstracts corpus for retrieval also remains unchanged and is available on [HuggingFace](https://huggingface.co/datasets/rabuahmad/climatecheck_publications_corpus). 
 
 **Task 2: Disinformation narrative classification**
 
