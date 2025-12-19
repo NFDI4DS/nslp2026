@@ -30,7 +30,7 @@ The following tasks are available:
 
 ## Important Dates
 
-* Release of datasets: December 15, 2025 (task 1); December 19, 2025 (task 2) 
+* Release of datasets: December 15, 2025 (task 1); December 19, 2025 (task 2) -> Both datasets are now [available](https://huggingface.co/datasets/rabuahmad/climatecheck) for training!
 * Testing phase begins: January 15, 2026 (Codabench link TBA)
 * Deadline for system submissions: February 16, 2026
 * Deadline for paper submissions: February 20, 2026 
