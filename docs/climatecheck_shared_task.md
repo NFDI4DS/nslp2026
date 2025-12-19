@@ -44,7 +44,7 @@ We encourage and invite participation from junior researchers and students from 
 
 The dataset for both tasks is now available on [HuggingFace](https://huggingface.co/datasets/rabuahmad/climatecheck); the claims in the test set will be the same as they 2025 iteration. The abstracts corpus for retrieval (task 1) is available on [HuggingFace](https://huggingface.co/datasets/rabuahmad/climatecheck_publications_corpus). 
 
-Due to label imbalance in the dataset for both tasks, participants are allowed to ustilise external dataset or augment the data however they see fit. 
+Due to label imbalance in the dataset for both tasks, participants are allowed to ustilise external datasets and/or augment the data however they see fit. 
 
 <br/>
 
