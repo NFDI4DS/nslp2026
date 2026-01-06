@@ -15,7 +15,7 @@ The NSLP 2026 workshop invites submissions of: regular long papers; short papers
 * Submissions **must be in PDF**, formatted in the **LREC 2026 style**.
 * The proceedings of this workshop will be published as part of the **LREC 2026 proceedings in the ACL Anthology** (full Open Access).
 * At least **one author per contribution must register** for the workshop for presentation.
-* All submissions are done via **START (Softconf)** – https://softconf.com/lrec2026/NSLP2026/.
+* All submissions are done via **START (Softconf)** – <a href="https://softconf.com/lrec2026/NSLP2026/">https://softconf.com/lrec2026/NSLP2026/</a>.
 
 When submitting a paper from the START page, the authors will be asked to provide essential information about resources (in a broad sense, i.e., also technologies, standards, evaluation kits, etc.) that have been used for the work described in the paper or are a new result of your research. Moreover, ELRA encourages all LREC authors to share the described LRs (data, tools, services, etc.) to enable their reuse and replicability of experiments (including evaluation ones).
 
