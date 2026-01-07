@@ -43,6 +43,8 @@ For this subtask, we provide predicted mentions of software and metadata at a la
 * Sharmila Upadhyaya (GESIS Leibniz Institut für Sozialwissenschaften, Germany)
 
 * Wolfgang Otto (GESIS Leibniz Institut für Sozialwissenschaften, Germany)
+  
+* Julia Matela (Wismar University of Applied Sciences, Germany)
 
 * Frank Krueger (Wismar University of Applied Sciences, Germany)
 
