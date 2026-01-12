@@ -14,7 +14,7 @@ nav_order: 9
 
 # Programme committee
 
-* Marcel Ackermann, Lernzentrum Informatik (LZI), DBLP, Germany
+* Marcel R. Ackermann, Schloss Dagstuhl - Leibniz Center for Informatics (LZI), DBLP, Germany
 * Raia Abu Ahmad, German Research Center for Artificial Intelligence (DFKI), Germany
 * Tilahun Abedissa Taffa, University of Hamburg, Germany
 * Ekaterina Borisova, German Research Center for Artificial Intelligence (DFKI), Germany
