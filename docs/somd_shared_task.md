@@ -37,6 +37,11 @@ For this subtask, we provide predicted mentions of software and metadata at a la
   * Workshop Date: May 12, 2026
 
 
+## Participation
+The competition is hosted in Codabench (link TBA).
+
+## Dataset
+Dataset will be released on the competition page in Codabench (link TBA)
 
 ## Shared task organisers: 
 
