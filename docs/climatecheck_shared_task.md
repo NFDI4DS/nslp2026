@@ -9,7 +9,7 @@ nav_order: 5
 <h1> Shared Task on Scientific Fact-Checking and Disinformation Narrative Classification of Climate-related Claims</h1>
 </div>
 
-<div style="color: #ff826e;">Update:</div>The CodaBench platform is now live! Please go to [https://www.codabench.org/competitions/12213/](https://www.codabench.org/competitions/12213/) to register.
+**Update:** The CodaBench platform is now live! Please go to [https://www.codabench.org/competitions/12213/](https://www.codabench.org/competitions/12213/) to register.
 
 The rise of climate discourse on social media offers new channels for public engagement but also amplifies mis- and disinformation. As online platforms increasingly shape public understanding of science, tools that ground claims in trustworthy, peer-reviewed evidence are necessary. The new 2026 iteration of ClimateCheck builds on the results and insights from the 2025 iteration (run at SDP 2025/ACL 2025), extending it by adding training data, a new task on classifying disinformation narratives in climate discourse, and a focus on sustainable solutions.
 
@@ -33,7 +33,7 @@ The following tasks are available:
 ## Important Dates
 
 * Release of datasets: December 15, 2025 (task 1); December 19, 2025 (task 2) -> Both datasets are now [available](https://huggingface.co/datasets/rabuahmad/climatecheck) for training!
-* Testing phase begins: January 15, 2026 -> The competition is no available on [CodaBench](https://www.codabench.org/competitions/12213/). 
+* Testing phase begins: January 15, 2026 -> The competition is now available on [CodaBench](https://www.codabench.org/competitions/12213/). 
 * Deadline for system submissions: February 16, 2026
 * Deadline for paper submissions: February 20, 2026 
 * Notification of acceptance: March 13, 2026 
