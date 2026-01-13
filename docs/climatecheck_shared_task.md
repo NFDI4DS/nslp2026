@@ -9,6 +9,8 @@ nav_order: 5
 <h1> Shared Task on Scientific Fact-Checking and Disinformation Narrative Classification of Climate-related Claims</h1>
 </div>
 
+<div style="color: #ff826e;">**Update**</div>: The CodaBench platform is now live! Please register to the competition using this link: [https://www.codabench.org/competitions/12213/](https://www.codabench.org/competitions/12213/).
+
 The rise of climate discourse on social media offers new channels for public engagement but also amplifies mis- and disinformation. As online platforms increasingly shape public understanding of science, tools that ground claims in trustworthy, peer-reviewed evidence are necessary. The new 2026 iteration of ClimateCheck builds on the results and insights from the 2025 iteration (run at SDP 2025/ACL 2025), extending it by adding training data, a new task on classifying disinformation narratives in climate discourse, and a focus on sustainable solutions.
 
 <div style="color: #ff826e;">
@@ -22,7 +24,7 @@ What's new in the 2026 iteration?
 
 The following tasks are available: 
 
-* **Task 1: Abstract retrieval and claim verification**: given a claim and a corpus of publications, retrieve the top 5 most relevant abstracts and classify each claim-abstract pair as supports, refutes, or not enough information. <br/>
+* **Task 1: Abstract retrieval and claim verification**: given a claim and a corpus of publications, 1. retrieve the top 5 most relevant abstracts and 2. classify each claim-abstract pair as supports, refutes, or not enough information. <br/>
   **Evaluation**: Recall@K (K=2, 5) and B-Pref (for retrieval) + Weighted F1 (for verification) based on gold data; additional unannotated documents will be evaluated automatically. In addition, we will ask participants to use [CodeCarbon](https://codecarbon.io/) to assess emissions and energy consumption at test inference.
   
 * **Task 2: Disinformation narrative classification**: given a claim, predict which climate disinformation narrative exists according to a predefined taxonomy. <br/>
@@ -31,7 +33,7 @@ The following tasks are available:
 ## Important Dates
 
 * Release of datasets: December 15, 2025 (task 1); December 19, 2025 (task 2) -> Both datasets are now [available](https://huggingface.co/datasets/rabuahmad/climatecheck) for training!
-* Testing phase begins: January 15, 2026 (Codabench link TBA)
+* Testing phase begins: January 15, 2026 -> Competition is no available on [CodaBench](https://www.codabench.org/competitions/12213/). 
 * Deadline for system submissions: February 16, 2026
 * Deadline for paper submissions: February 20, 2026 
 * Notification of acceptance: March 13, 2026 
@@ -57,10 +59,8 @@ In addition, this year’s iteration will focus on coming up with sustainable so
 The dataset for task 2 will consist of the same claims used for task 1, each annotated with labels denoting whether the claim is an example of a known climate disinformation narrative, and if so, which one(s). We follow the CARDS taxonomy (levels 1 and 2) developed by Rojas et al. (2024) to label our claims in a multi-label manner. Results will be evaluated using macro-, micro- and weighted-F1 scores.   
 
 <div style="color: #ff826e;">
-Participants can take part in task 1, task 2, or both tasks (better yet - think of ways to incorporate task 2 into the task 1 pipeline!).
+Participants can take part in task 1 (either abstracts retrieval alone or full pipeline), task 2, or both tasks (better yet - think of ways to incorporate task 2 into the task 1 pipeline!).
 </div>
-
-More information will be available soon regarding registration via Codabench and how to use CodeCarbon at inference to track emissions. In the meantime, the [dummy competition](https://www.codabench.org/competitions/8304/) from last year's iteration is available, which you can test your task 1 predictions on, since the same test set will be used. However, note that we will add an automatic evaluation metric for unannotated documents; thus the results might not be accurate but they can give a good indication!
 
 ## Shared task organisers:
 
