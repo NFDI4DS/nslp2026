@@ -40,7 +40,7 @@ For this subtask, we provide predicted mentions of software and metadata at a la
 ## Participation
 Participants can take part in one or more of the three subtasks independently. Each subtask are hosted on the same competition platform but as separate competition.
 
-  ### Registration
+  ***Registration***
   
   To participate, teams must register on the competition platform via the Participation Link:
   * <a href="[https://example.com](https://www.codabench.org/competitions/12684/?secret_key=4afda676-dd52-4172-af45-ea0dafe6d471)">Subtask1</a>
