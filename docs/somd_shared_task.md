@@ -38,7 +38,21 @@ For this subtask, we provide predicted mentions of software and metadata at a la
 
 
 ## Participation
-The competition is hosted in Codabench (link TBA).
+Participants can take part in one or more of the three subtasks independently. Each subtask are hosted on the same competition platform but as separate competition.
+
+  ### Registration
+  
+  To participate, teams must register on the competition platform via the Participation Link:
+  * <a href="[https://example.com](https://www.codabench.org/competitions/12684/?secret_key=4afda676-dd52-4172-af45-ea0dafe6d471)">Subtask1</a>
+  * <a href="[https://example.com](https://www.codabench.org/competitions/12685/?secret_key=fbf08109-f885-4a99-881a-0cb0f6a7003f)">Subtask2</a>
+  * <a href="[https://example.com](https://www.codabench.org/competitions/12686/?secret_key=01b509f4-1e7d-46a5-8dde-027dccfde384)">Subtask3</a>
+  
+  After registration, participants will gain access to:
+  * The training and development data
+  * Submission instructions for each subtask
+  * The evaluation leaderboard(s)
+
+Participation is open to both academic and industry teams. Teams may consist of one or more members.
 
 ## Dataset
 Dataset will be released on the competition page in Codabench (link TBA)
