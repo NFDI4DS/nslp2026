@@ -30,7 +30,7 @@ For this subtask, we provide predicted mentions of software and metadata at a la
 
   * Registration Opens: January 14, 2025
   * Train/Test Data Release (All Subtasks): January 20, 2026
-  * Competition Phase: January 20 – February 20, 2026 (via Codabench,  link TBA)
+  * Competition Phase: January 20 – February 20, 2026 (via Codabench)
   * System Paper & Code Submission Deadline: February 27, 2026
   * Notification of Acceptance: March 10, 2026
   * Camera-Ready Papers Due: March 27, 2026
@@ -43,9 +43,9 @@ Participants can take part in one or more of the three subtasks independently. E
   ***Registration***
   
   To participate, teams must register on the competition platform via the Participation Link:
-  * <a href="[https://example.com](https://www.codabench.org/competitions/12684/?secret_key=4afda676-dd52-4172-af45-ea0dafe6d471)">Subtask1</a>
-  * <a href="[https://example.com](https://www.codabench.org/competitions/12685/?secret_key=fbf08109-f885-4a99-881a-0cb0f6a7003f)">Subtask2</a>
-  * <a href="[https://example.com](https://www.codabench.org/competitions/12686/?secret_key=01b509f4-1e7d-46a5-8dde-027dccfde384)">Subtask3</a>
+  * <a href="https://www.codabench.org/competitions/12684/?secret_key=4afda676-dd52-4172-af45-ea0dafe6d471">Subtask1</a>
+  * <a href="https://www.codabench.org/competitions/12685/?secret_key=fbf08109-f885-4a99-881a-0cb0f6a7003f">Subtask2</a>
+  * <a href="https://www.codabench.org/competitions/12686/?secret_key=01b509f4-1e7d-46a5-8dde-027dccfde384">Subtask3</a>
   
   After registration, participants will gain access to:
   * The training and development data
