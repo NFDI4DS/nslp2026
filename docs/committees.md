@@ -23,15 +23,12 @@ nav_order: 9
 * Mathieu d’Aquin, Université de Lorraine, France
 * Jennifer D’Souza, TIB Leibniz Information Centre for Science and Technology, Germany
 * Catherine Faron, Université Côte d’Azur, France
-* Dayne Freitag, SRI International, USA
 * Paul Groth, University of Amsterdam, TheNetherlands
-* Leonhard Hennig, German Research Center for Artificial Intelligence (DFKI), Germany
 * Inma Hernandez, University of Seville, Spain
 * Robert Jäschke, Humboldt University of Berlin, Germany
 * Petr Knoth, Open University, UK
 * Frank Krüger, Wismar University of Applied Sciences, Germany
 * Julia Lane, NYU Wagner Graduate School of Public Service, USA
-* Andrea Mannocci, CNR-ISTI, Italy
 * Natalia Manola, OpenAIRE, Greece
 * Mirko Marras, University of Cagliari, Italy
 * Philipp Mayr-Schlegel, GESIS Leibniz-Institute for the Social Sciences, Germany
@@ -39,12 +36,10 @@ nav_order: 9
 * Wolfgang Otto, GESIS Leibniz-Institute for the Social Sciences, Germany
 * Haris Papageorgiou, R. C. Athena, Greece
 * Silvio Peroni, University of Bologna, Italy
-* Simone Ponzetto, Univ. of Mannheim, Germany
 * Diego Reforgiato Recupero, University of Cagliari, Italy
 * Harald Sack, FIZ Karlsruhe, Germany
 * Angelo Salatino, The Open University, UK
 * Philipp Schaer, TH Köln (University of Applied Sciences), Germany
 * Atsuhiro Takasu, University of Tokyo, Japan
-* Stefani Tsaneva, WU Wien, Austria
 * Ricardo Usbeck, Leuphana University, Germany
 * Thanasis Vergoulis, R. C. Athena, Greece
