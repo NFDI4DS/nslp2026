@@ -48,14 +48,17 @@ Participants can take part in one or more of the three subtasks independently. E
   * <a href="https://www.codabench.org/competitions/12686/?secret_key=01b509f4-1e7d-46a5-8dde-027dccfde384">Subtask3</a>
   
   After registration, participants will gain access to:
-  * The training and development data
+  * The training and Test data
   * Submission instructions for each subtask
   * The evaluation leaderboard(s)
 
 Participation is open to both academic and industry teams. Teams may consist of one or more members.
 
 ## Dataset
-Dataset will be released on the competition page in Codabench (link TBA)
+Dataset has been released on the Codabench Competition page.
+* <a href="https://www.codabench.org/competitions/12684/?secret_key=4afda676-dd52-4172-af45-ea0dafe6d471">Subtask1</a>
+* <a href="https://www.codabench.org/competitions/12685/?secret_key=fbf08109-f885-4a99-881a-0cb0f6a7003f">Subtask2</a>
+* <a href="https://www.codabench.org/competitions/12686/?secret_key=01b509f4-1e7d-46a5-8dde-027dccfde384">Subtask3</a>
 
 ## Shared task organisers: 
 
