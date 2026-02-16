@@ -60,6 +60,197 @@ Dataset has been released on the Codabench Competition page.
 * <a href="https://www.codabench.org/competitions/12685/?secret_key=fbf08109-f885-4a99-881a-0cb0f6a7003f">Subtask2</a>
 * <a href="https://www.codabench.org/competitions/12686/?secret_key=01b509f4-1e7d-46a5-8dde-027dccfde384">Subtask3</a>
 
+
+## SOMD 2026 Shared Task – System Paper Submission Guidelines
+
+    <p>
+    The SOMD 2026 Shared Task, organized as part of the NSLP 2026 workshop, 
+    invites submissions of <strong>system description papers</strong> from participating teams.
+  </p>
+
+  <h3>Eligibility</h3>
+  <p>
+    System papers must describe participation in one or more of the SOMD 2026 subtasks:
+  </p>
+  <ul>
+    <li><strong>Subtask 1:</strong> Cross-document coreference resolution over gold-standard mentions</li>
+    <li><strong>Subtask 2:</strong> Cross-document coreference resolution over predicted mentions</li>
+    <li><strong>Subtask 3:</strong> Large-scale cross-document coreference resolution over predicted mentions</li>
+  </ul>
+  <p>
+    We will not accept work that is under review or has already been published in or accepted 
+    for publication in a journal, another conference, or another workshop.
+  </p>
+
+  <h3>Paper Length</h3>
+  <ul>
+    <li><strong>Long papers:</strong> up to 8 pages (excluding references and appendix)</li>
+    <li><strong>Short papers:</strong> up to 4 pages (excluding references and appendix)</li>
+  </ul>
+  <p>
+    An optional appendix of up to 2 pages is allowed. Reviewers are not required to review 
+    the appendix, and all papers must be self-contained.
+  </p>
+
+  <h3>Review Process</h3>
+  <p>
+    <strong>System paper submissions are NOT anonymous.</strong>
+  </p>
+  <ul>
+    <li>Author names and affiliations must be included in the submission.</li>
+    <li>The review process will be single-blind.</li>
+    <li>Submissions do not need to be anonymized.</li>
+  </ul>
+  <p>
+    Please note that this differs from the regular NSLP workshop submissions, 
+    which follow a double-blind review process.
+  </p>
+
+  <h3>Formatting Requirements</h3>
+  <ul>
+    <li>Submissions must be in PDF format.</li>
+    <li>Papers must follow the official LREC 2026 style guidelines.</li>
+    <li>Templates (LaTeX and Word) are available on the LREC 2026 website.</li>
+  </ul>
+
+  <h3>Proceedings</h3>
+  <p>
+    Accepted system papers will be published as part of the NSLP 2026 workshop proceedings, 
+    included in the LREC 2026 proceedings in the ACL Anthology (Full Open Access).
+  </p>
+
+  <h3>Submission Platform</h3>
+  <p>
+    All system papers must be submitted via:
+  </p>
+  <p>
+    <strong>START (Softconf):</strong><br>
+    <a href="https://softconf.com/lrec2026/NSLP2026/" target="_blank">
+      https://softconf.com/lrec2026/NSLP2026/
+    </a>
+  </p>
+  <p>
+    Please select the appropriate <strong>SOMD 2026 Shared Task – System Paper</strong> track during submission.
+  </p>
+
+  <h3>Registration Requirement</h3>
+  <p>
+    At least one author of each accepted system paper must register for the workshop 
+    and present the work.
+  </p>
+
+  <h3>Important Dates</h3>
+  <ul>
+    <li><strong>System Paper & Code Submission Deadline:</strong> February 27, 2026</li>
+    <li><strong>Notification of Acceptance:</strong> March 10, 2026</li>
+    <li><strong>Camera-Ready Deadline:</strong> March 27, 2026</li>
+    <li><strong>Workshop Date:</strong> May 12, 2026</li>
+  </ul>
+</section>
+If you want, I can also provide:
+
+A more compact version (for small webpage space)
+
+A visually styled version with simple CSS
+
+Or a version adapted for Codabench competition page
+
+
+You said:
+and add easy chair link of submission tba
+
+ChatGPT said:
+Here is the updated HTML section, now including an EasyChair submission link (TBA) in addition to the START link. You can later replace the # with the real EasyChair URL.
+
+<section id="somd2026-system-paper-submission">
+  <h2>SOMD 2026 Shared Task – System Paper Submission Guidelines</h2>
+
+  <p>
+    The SOMD 2026 Shared Task, organized as part of the NSLP 2026 workshop, 
+    invites submissions of <strong>system description papers</strong> from participating teams.
+  </p>
+
+  <h3>Eligibility</h3>
+  <p>
+    System papers must describe participation in one or more of the SOMD 2026 subtasks:
+  </p>
+  <ul>
+    <li><strong>Subtask 1:</strong> Cross-document coreference resolution over gold-standard mentions</li>
+    <li><strong>Subtask 2:</strong> Cross-document coreference resolution over predicted mentions</li>
+    <li><strong>Subtask 3:</strong> Large-scale cross-document coreference resolution over predicted mentions</li>
+  </ul>
+  <p>
+    We will not accept work that is under review or has already been published in or accepted 
+    for publication in a journal, another conference, or another workshop.
+  </p>
+
+  <h3>Paper Length</h3>
+  <ul>
+    <li><strong>Long papers:</strong> up to 8 pages (excluding references and appendix)</li>
+    <li><strong>Short papers:</strong> up to 4 pages (excluding references and appendix)</li>
+  </ul>
+  <p>
+    An optional appendix of up to 2 pages is allowed. Reviewers are not required to review 
+    the appendix, and all papers must be self-contained.
+  </p>
+
+  <h3>Review Process</h3>
+  <p>
+    <strong>System paper submissions are NOT anonymous.</strong>
+  </p>
+  <ul>
+    <li>Author names and affiliations must be included in the submission.</li>
+    <li>The review process will be single-blind.</li>
+    <li>Submissions do not need to be anonymized.</li>
+  </ul>
+  <p>
+    Please note that this differs from the regular NSLP workshop submissions, 
+    which follow a double-blind review process.
+  </p>
+
+  <h3>Formatting Requirements</h3>
+  <ul>
+    <li>Submissions must be in PDF format.</li>
+    <li>Papers must follow the official LREC 2026 style guidelines.</li>
+    <li>Templates (LaTeX and Word) are available on the LREC 2026 website.</li>
+  </ul>
+
+  <h3>Proceedings</h3>
+  <p>
+    Accepted system papers will be published as part of the NSLP 2026 workshop proceedings, 
+    included in the LREC 2026 proceedings in the ACL Anthology (Full Open Access).
+  </p>
+
+  <h3>Submission Platform</h3>
+  <p>
+    System papers can be submitted via:
+  </p>
+
+  <p>
+    <strong>EasyChair (System Paper Track):</strong><br>
+    <a href="#" target="_blank">Submission link – TBA</a>
+  </p>
+
+ 
+
+  <p>
+    Please select the appropriate <strong>SOMD 2026 Shared Task – System Paper</strong> track during submission.
+  </p>
+
+  <h3>Registration Requirement</h3>
+  <p>
+    At least one author of each accepted system paper must register for the workshop 
+    and present the work.
+  </p>
+
+  <h3>Important Dates</h3>
+  <ul>
+    <li><strong>System Paper & Code Submission Deadline:</strong> February 27, 2026</li>
+    <li><strong>Notification of Acceptance:</strong> March 10, 2026</li>
+    <li><strong>Camera-Ready Deadline:</strong> March 27, 2026</li>
+    <li><strong>Workshop Date:</strong> May 12, 2026</li>
+  </ul>
+</section>
 ## Shared task organisers: 
 
 * Sharmila Upadhyaya (GESIS Leibniz Institut für Sozialwissenschaften, Germany)
