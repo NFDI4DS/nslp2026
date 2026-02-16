@@ -61,9 +61,9 @@ Dataset has been released on the Codabench Competition page.
 * <a href="https://www.codabench.org/competitions/12686/?secret_key=01b509f4-1e7d-46a5-8dde-027dccfde384">Subtask3</a>
 
 
-## SOMD 2026 Shared Task – System Paper Submission Guidelines
+##  System Paper Submission Guidelines
 
-    <p>
+  <p>
     The SOMD 2026 Shared Task, organized as part of the NSLP 2026 workshop, 
     invites submissions of <strong>system description papers</strong> from participating teams.
   </p>
