@@ -101,16 +101,13 @@ Dataset has been released on the Codabench Competition page.
     <li>The review process will be single-blind.</li>
     <li>Submissions do not need to be anonymized.</li>
   </ul>
-  <p>
-    Please note that this differs from the regular NSLP workshop submissions, 
-    which follow a double-blind review process.
-  </p>
 
   <h3>Formatting Requirements</h3>
   <ul>
     <li>Submissions must be in PDF format.</li>
     <li>Papers must follow the official LREC 2026 style guidelines.</li>
     <li>Templates are available on the LREC 2026 website.</li>
+    
   </ul>
 
   <h3>Proceedings</h3>
@@ -124,14 +121,12 @@ Dataset has been released on the Codabench Competition page.
     All system papers must be submitted via:
   </p>
   <p>
-    <strong>START (Softconf):</strong><br>
+    <strong>Easy Chair</strong><br>
     <a href="https://easychair.org/conferences/?conf=somd2026" target="_blank">
       https://softconf.com/lrec2026/NSLP2026/
     </a>
   </p>
-  <p>
-    Please select the appropriate <strong>SOMD 2026 Shared Task – System Paper</strong> track during submission.
-  </p>
+ 
 
   <h3>Registration Requirement</h3>
   <p>
