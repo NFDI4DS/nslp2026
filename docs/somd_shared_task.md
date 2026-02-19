@@ -123,7 +123,7 @@ Dataset has been released on the Codabench Competition page.
   <p>
     <strong>Easy Chair</strong><br>
     <a href="https://easychair.org/conferences/?conf=somd2026" target="_blank">
-      https://softconf.com/lrec2026/NSLP2026/
+      Link
     </a>
   </p>
  
