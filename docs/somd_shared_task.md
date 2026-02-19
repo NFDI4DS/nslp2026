@@ -146,7 +146,7 @@ Dataset has been released on the Codabench Competition page.
   <h3>Proceedings</h3>
   <p>
     Accepted system papers will be published as part of the NSLP 2026 workshop proceedings, 
-    included in the LREC 2026 proceedings in the ACL Anthology (Full Open Access).
+    included in the LREC 2026 proceedings in the ACL Anthology.
   </p>
 
 </section>
