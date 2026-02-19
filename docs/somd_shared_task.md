@@ -143,20 +143,12 @@ Dataset has been released on the Codabench Competition page.
   </ul>
 </section>
 
-
   <h3>Proceedings</h3>
   <p>
     Accepted system papers will be published as part of the NSLP 2026 workshop proceedings, 
     included in the LREC 2026 proceedings in the ACL Anthology (Full Open Access).
   </p>
 
-  <h3>Important Dates</h3>
-  <ul>
-    <li><strong>System Paper & Code Submission Deadline:</strong> February 27, 2026</li>
-    <li><strong>Notification of Acceptance:</strong> March 10, 2026</li>
-    <li><strong>Camera-Ready Deadline:</strong> March 27, 2026</li>
-    <li><strong>Workshop Date:</strong> May 12, 2026</li>
-  </ul>
 </section>
 ## Shared task organisers: 
 
