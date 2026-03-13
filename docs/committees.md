@@ -14,32 +14,31 @@ nav_order: 9
 
 # Programme committee
 
-* Marcel R. Ackermann, Schloss Dagstuhl - Leibniz Center for Informatics (LZI), DBLP, Germany
 * Raia Abu Ahmad, German Research Center for Artificial Intelligence (DFKI), Germany
-* Tilahun Abedissa Taffa, University of Hamburg, Germany
+* Marcel R. Ackermann, Schloss Dagstuhl - Leibniz Center for Informatics (LZI), DBLP, Germany
+* Sören Auer, TIB Leibniz Information Centre for Science and Technology, Germany
+* Fabio Barth, German Research Center for Artificial Intelligence (DFKI), Germany
 * Ekaterina Borisova, German Research Center for Artificial Intelligence (DFKI), Germany
 * Davide Buscaldi, LIPN, CNRS, University Paris 13, France
 * Leyla Jael Castro, ZB MED Information Centre for Life Sciences, Germany
 * Mathieu d’Aquin, Université de Lorraine, France
-* Jennifer D’Souza, TIB Leibniz Information Centre for Science and Technology, Germany
 * Catherine Faron, Université Côte d’Azur, France
 * Paul Groth, University of Amsterdam, TheNetherlands
-* Inma Hernandez, University of Seville, Spain
 * Robert Jäschke, Humboldt University of Berlin, Germany
-* Petr Knoth, Open University, UK
 * Frank Krüger, Wismar University of Applied Sciences, Germany
-* Julia Lane, NYU Wagner Graduate School of Public Service, USA
-* Natalia Manola, OpenAIRE, Greece
-* Mirko Marras, University of Cagliari, Italy
-* Philipp Mayr-Schlegel, GESIS Leibniz-Institute for the Social Sciences, Germany
-* Pedro Ortiz Suarez, Common Crawl Foundation,USA
+* Julia Matela, Wismar University of Applied Sciences, Germany
+* Philipp Mayr, GESIS Leibniz-Institute for the Social Sciences, Germany
+* Julian Moreno-Schneider, German Research Center for Artificial Intelligence (DFKI), Germany
+* Pedro Ortiz Suarez, Common Crawl Foundation, USA
 * Wolfgang Otto, GESIS Leibniz-Institute for the Social Sciences, Germany
 * Haris Papageorgiou, R. C. Athena, Greece
-* Silvio Peroni, University of Bologna, Italy
-* Diego Reforgiato Recupero, University of Cagliari, Italy
 * Harald Sack, FIZ Karlsruhe, Germany
 * Angelo Salatino, The Open University, UK
 * Philipp Schaer, TH Köln (University of Applied Sciences), Germany
-* Atsuhiro Takasu, University of Tokyo, Japan
+* Vera Schmitt, Technische Universität Berlin, Germany
+* Veronika Solopova, Technische Universität Berlin, Germany
+* Sharmila Upadhyaya, GESIS Leibniz-Institute for the Social Sciences
+* Max Upravitelev, Technische Universität Berlin, Germany
 * Ricardo Usbeck, Leuphana University, Germany
+* Aida Usmanova, Leuphana University, Germany
 * Thanasis Vergoulis, R. C. Athena, Greece
