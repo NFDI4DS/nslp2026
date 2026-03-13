@@ -40,7 +40,7 @@ Participants can sign up for one or more (sub-)tasks. Automated evaluations of s
 ## Important dates
 
 * Paper submission deadline: **February 20, 2026 (tbc; not to be extended)**
-* Notification of acceptance: <s>**March 13, 2026 (tentative)**</s> **March 14, 2026**
+* Notification of acceptance: <s>March 13, 2026 (tentative)</s> **March 14, 2026**
 * Camera-ready submission: **March 27, 2026 (tentative)**
 * Workshop: **<span>May 12, 2026</span>**
 
