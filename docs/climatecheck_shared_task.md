@@ -37,7 +37,7 @@ The following tasks are available:
 * Deadline for system submissions: February 16, 2026
 * Deadline for paper submissions: February 20, 2026 
 * Notification of acceptance: March 13, 2026 
-* Camera-ready papers due: March 30, 2026 
+* Camera-ready papers due: March 27, 2026 
 * Workshop: May 12, 2026
 
 We encourage and invite participation from junior researchers and students from diverse backgrounds. Participants are also highly encouraged to submit a paper describing their systems to the NSLP 2026 workshop. 
