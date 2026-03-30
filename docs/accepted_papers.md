@@ -24,7 +24,7 @@ nav_order: 2
   *Thibault Ehrhart, Gregoire Burel and Raphael Troncy*
 * **Comparing LLM-Based Knowledge Graph Extraction Approaches on Literary Studies in Spanish: A Case Study on Orbis Tertius**\
   *Federico Cortes*
-* **Contrastive SciBERT for Cross-Document Software Coreference**\
+* **Transformer Encoders with Heuristic-Guided Contrastive Learning for Software Coreference Resolution**\
   *Mahmoud Hassan and Dipendra Yadav*
 * **Demystifying Funding: Reconstructing a Unified Dataset of the UK Funding Lifecycle**\
   *William Thorne, Rupert Shepherd and Diana Maynard*
