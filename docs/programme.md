@@ -34,7 +34,7 @@ nav_order: 3
     <br><br><br><br><strong>11:00</strong>
     <br><br><br><br><strong>11:20</strong>
     <br><br><br><br><strong>11:40</strong>
-    <br><br><br><br><br><strong>12:00</strong>
+    <br><br><br><br><br><br><br><strong>12:00</strong>
     <br><br><br><strong>12:20</strong>
     <br><br><br><br><strong>12:40</strong>
     <br><br><br><strong>12:50</strong>
