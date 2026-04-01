@@ -77,8 +77,8 @@ nav_order: 3
     <br><br><br><br><strong>14:20</strong>
     <br><br><br><strong>14:40</strong>
     <br><br><br><br><br><strong>15:00</strong>
-    <br><br><br><strong>15:20</strong>
-    <br><br><br><strong>15:40</strong>
+    <br><br><br><br><strong>15:20</strong>
+    <br><br><br><br><strong>15:40</strong>
   </td>
     <br>
     <td colspan="12"><div style="text-align: center;"><strong>Session 3: RELIABILITY, REACH & SCALE</strong></div> 
