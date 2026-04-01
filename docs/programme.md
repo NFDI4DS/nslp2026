@@ -35,7 +35,7 @@ nav_order: 3
     <br><br><br><br><strong>11:20</strong>
     <br><br><br><br><strong>11:40</strong>
     <br><br><br><br><br><br><br><strong>12:00</strong>
-    <br><br><br><strong>12:20</strong>
+    <br><br><br><br><strong>12:20</strong>
     <br><br><br><br><strong>12:40</strong>
     <br><br><br><strong>12:50</strong>
   </td>
@@ -76,7 +76,7 @@ nav_order: 3
     <br><br><br><br><strong>14:00</strong>
     <br><br><br><br><strong>14:20</strong>
     <br><br><br><strong>14:40</strong>
-    <br><br><br><br><strong>15:00</strong>
+    <br><br><br><br><br><strong>15:00</strong>
     <br><br><br><strong>15:20</strong>
     <br><br><br><strong>15:40</strong>
   </td>
