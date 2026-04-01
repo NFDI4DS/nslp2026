@@ -18,7 +18,7 @@ nav_order: 3
   </tr>
   <tr>
   <td valign="top" ><br><br><strong>09:50</strong><br><br><br><strong>10:10</strong></td>
-    <td colspan="5"><div style="text-align: center;"><strong>Session 1: Shared Tasks Overview Papers</strong></div>
+    <td colspan="5"><div style="text-align: center;"><strong>Session 1: SHARED TASK OVERVIEW PAPERS</strong></div>
       <br>ClimateCheck 2026: Scientific Fact-Checking and Disinformation Narrative Classification of Climate-related Claims
       <br><em>Raia Abu Ahmad, Max Upravitelev, Aida Usmanova, Veronika Solopova and Georg Rehm</em>  
       <br>
@@ -40,7 +40,7 @@ nav_order: 3
     <br><br><br><strong>12:50</strong>
   </td>
     <br>
-    <td colspan="12"><div style="text-align: center;"><strong>Session 2: Scholarly Infrastructure and Data Foundations</strong></div> 
+    <td colspan="12"><div style="text-align: center;"><strong>Session 2: SCHOLARLY INFRASTRUCTURE AND DATA FOUNDATIONS</strong></div> 
       <br><strong>Track A: Knowledge Graphs & Taxonomy</strong>
       <br>
       <br>Comparing LLM-Based Knowledge Graph Extraction Approaches on Literary Studies in Spanish: A Case Study on Orbis Tertius
@@ -71,7 +71,6 @@ nav_order: 3
     <td valign="top" ><strong>13:00</strong></td>
     <td><strong>Lunch Break</strong></td>
   </tr> 
-</tr>
   <tr>
   <td valign="top">
     <br><br><br><br><strong>14:00</strong>
@@ -82,7 +81,7 @@ nav_order: 3
     <br><br><br><strong>15:40</strong>
   </td>
     <br>
-    <td colspan="12"><div style="text-align: center;"><strong>Session 3: Reliability, Reach & Scale</strong></div> 
+    <td colspan="12"><div style="text-align: center;"><strong>Session 3: RELIABILITY, REACH & SCALE</strong></div> 
       <br><strong>Track C: Factuality & Agentic Reasoning</strong>
       <br>
       <br>Enhancing Factuality and Transparency in Generative Models for Biomedical Question Answering
