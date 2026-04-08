@@ -14,7 +14,7 @@ nav_order: 3
   <tr>
   <td valign="top" ><strong>09:10</strong></td>
     <td colspan="2"><strong>Invited Keynote  - Yufang Hou</strong> 
-      <br>Title TBA</td> 
+      <br>Synthesizing Scientific Knowledge: From Biomedical Evidence to NLP Claims</td> 
   </tr>
   <tr>
   <td valign="top" ><br><br><strong>09:50</strong><br><br><br><strong>10:10</strong></td>
@@ -112,7 +112,7 @@ nav_order: 3
   <tr>
   <td valign="top" ><strong>16:30</strong></td>
     <td colspan="2"><strong>Invited Keynote  - Iryna Gurevych</strong> 
-      <br>Title TBA</td> 
+      <br>Welcoming AI as a New Colleague: How Should We Evaluate AI for Science?</td> 
   </tr>
   <tr> 
  <td valign="top"><strong>17:15</strong></td>
