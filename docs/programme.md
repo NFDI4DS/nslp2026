@@ -40,7 +40,7 @@ nav_order: 3
   </tr>
    <tr>
     <td></td>
-    <td colspan="5"><strong>Track A: Knowledge Graphs & Taxonomy</strong></td>
+    <td colspan="5"><strong>Track A: Knowledge Graphs & Taxonomy (Chair: Sonja Schimmler)</strong></td>
   </tr>
   <tr>
     <td valign="top" ><strong>11:00</strong></td>
@@ -61,7 +61,7 @@ nav_order: 3
   </tr>
    <tr>
     <td></td>
-    <td colspan="5"><strong>Track B: Domain-Specific Resources & Metadata</strong></td>
+    <td colspan="5"><strong>Track B: Domain-Specific Resources & Metadata (Chair: Fabio Barth)</strong></td>
   </tr>
   
    <tr>
@@ -95,7 +95,7 @@ nav_order: 3
   </tr>
    <tr>
     <td></td>
-    <td colspan="5"><strong>Track C: Factuality & Agentic Reasoning</strong></td>
+    <td colspan="5"><strong>Track C: Factuality & Agentic Reasoning (Chair: Raia Abu Ahmad)</strong></td>
   </tr>
    <tr>
     <td valign="top" ><strong>14:00</strong></td>
@@ -116,7 +116,7 @@ nav_order: 3
   </tr>
 <tr>
     <td></td>
-    <td colspan="5"><strong>Track D: Multilingualism & Model Optimization</strong></td>
+    <td colspan="5"><strong>Track D: Multilingualism & Model Optimization (Chair: Sharmila Upadhyaya)</strong></td>
   </tr>
     <tr>
     <td valign="top" ><strong>15:00</strong></td>
