@@ -1,11 +1,11 @@
 ---
 layout: home
-title: NSLP 2026
+title: NSLP-SDP 2027
 nav_order: 1
 permalink: /
 ---
 
-# 3rd International Workshop on Natural Scientific Language Processing (NSLP 2026)
+# Workshop on AI for the Scholarly Web (NSLP-SDP 2027)
 
 <table>
   <tr>
@@ -13,40 +13,43 @@ permalink: /
       <img width="250" height="250" src="./logo.png" alt="logo"/>
     </td>
     <td>
-    <strong>3rd International Workshop on Natural Scientific Language Processing (NSLP 2026)
+    <strong>1st Joint Workshop on AI for the Scholarly Web (NSLP-SDP 2027)
 </strong>
     <br/><br/>
-    <strong>Co-located with <a href="https://www.elra.info/lrec2026/" target="_blank">LREC 2026</a></strong>
+    <strong>Co-located with <a href="https://www2027.thewebconf.org/" target="_blank">The Web Conference 2027</a></strong>
     <br/>
-    <strong><span>May 12, 2026</span></strong>
+    <strong><span>May 10-14, 2027 (exact date TBA)</span></strong>
     <br/>
-    <strong>Palma de Mallorca, Spain</strong>
+    <strong>Dublin, Ireland</strong>
     </td>
   </tr>
 </table>
 
 ## Workshop Overview
 
-Scientific research is almost exclusively published in unstructured text formats, which are not readily machine-readable. While technological approaches can help to get this flood of scientific information and new knowledge under control, the development of such technologies is very complex in practice and hinders the creation of infrastructures and systems to track research and assist the scientific community with applications such as dedicated scientific search engines and recommender systems. **The 3rd International Workshop on Natural Scientific Language Processing (NSLP 2026)** aims to bring together researchers working on the processing, analysis, transformation and making-use-of scientific language including all relevant sub-topics. NSLP 2026 is a full-day workshop co-located with [LREC 2026](https://www.elra.info/lrec2026/) to be held in Palma de Mallorca, Spain in May 2026. The workshop consists of a keynote speaker as well as presentations and posters of accepted papers. 
+The scholarly Web has become the primary infrastructure through which scientific knowledge is published, discovered, linked, assessed, and reused. Making this ecosystem machine-actionable is simultaneously a document-understanding problem and a knowledge-acquisition-and-use problem. Scientific knowledge is communicated through long, structurally complex and increasingly multi-modal documents containing specialized terminology, citations, tables, figures, equations, metadata, code, datasets, and other research artefacts. Researchers and research infrastructures need machine-actionable representations of scientific claims, methods, evidence, entities, relations, and provenance in order to search, verify, synthesize, and reuse the rapidly growing body of scientific literature.
 
-In addition, the workshop offers **two shared tasks**:
+**The 1st Joint Workshop on AI for the Scholarly Web (NSLP-SDP 2027)** unifies two established and complementary workshop series. Natural Scientific Language Processing (NSLP) has emphasized scientific-language processing, information extraction, research/scientific knowledge graphs (RKGs/SKGs), research artefact identification/linking, metadata, multilinguality, scientific IR, and research infrastructures. Scholarly Document Processing (SDP) has built a strong community around document understanding, multimodal scholarly content, discourse/argumentation, citation analysis, summarization, QA, bibliometrics/scientometrics, peer review, reproducibility, and research integrity. The joint NSLP-SDP workshop attempts to connect the full pipeline: scholarly Web content -> structured and grounded scientific knowledge -> Web-scale search, synthesis and trustworthy research agents.
 
-* [ClimateCheck 2026: Scientific Fact-Checking of Social Media Claims](https://nfdi4ds.github.io/nslp2026/docs/climatecheck_shared_task.html)
-* [SOMD 2026: Software Mention Disambiguation and Coreference Resolution](https://nfdi4ds.github.io/nslp2026/docs/somd_shared_task.html)
-* <s>SciVQA 2026: Scientific Visual Question Answering</s>
+SDP has been held at [EMNLP 2020](https://ornlcda.github.io/SDProc/), [NAACL 2021](https://sdproc.org/2021/), [COLING 2022](https://sdproc.org/2022/), [ACL 2024](https://sdproc.org/2024/), and [ACL 2025](https://sdproc.org/2025/), building on SciNLP, BIRNDL, WOSP. NSLP was held at [ESWC 2024](https://nfdi4ds.github.io/nslp2024/), [ESWC 2025](https://nfdi4ds.github.io/nslp2025/), and [LREC 2026](https://nfdi4ds.github.io/nslp2026/). The 2027 edition differs fundamentally from previous editions by merging the NSLP and SDP communities, moving beyond an NLP-centred venue toward the broader scholarly Web.
 
-Participants can sign up for one or more (sub-)tasks. Automated evaluations of submitted systems are done through the Codabench platform.
+In addition, the workshop offers **shared tasks**:
+
+* [ClimateCheck 2027](https://nfdi4ds.github.io/nslp-sdp-2027/docs/climatecheck_shared_task.html)
+* [IE4ML 2027](https://nfdi4ds.github.io/nslp-sdp-2027/docs/ie4ml_shared_task.html)
+* [READNER 2027](https://nfdi4ds.github.io/nslp-sdp-2027/docs/readner_shared_task.html)
+* [SciVQA 2027](https://nfdi4ds.github.io/nslp-sdp-2027/docs/scivqa_shared_task.html)
 
 ## Important dates
 
-* Paper submission deadline: **February 20, 2026 (tbc; not to be extended)**
-* Notification of acceptance: <s>March 13, 2026 (tentative)</s> **March 14, 2026**
-* Camera-ready submission: **March 27, 2026**
-* Workshop: **<span>May 12, 2026</span>**
+* Paper submission deadline: **January 11, 2027**
+* Notification of acceptance: **February 08, 2027**
+* Camera-ready submission: **February 16, 2027**
+* Workshop: **Exact date TBA**
 
 All deadlines are 23:59 UTC-12:00 (“anywhere on Earth”).
 
 ## Proceedings 
-The proceedings of this workshop will be published as part of the LREC 2026 proceedings in the ACL Anthology (full Open Access).
+All original papers accepted at NSLP-SDP 2027 will be published in the WebConf 2027 Companion Proceedings, if submitted within the final submission deadline.
 
 <small><i>The logo was generated using [Canva AI](https://www.canva.com/en_gb/)</i></small>.

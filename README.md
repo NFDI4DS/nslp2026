@@ -1,5 +1,5 @@
-# 3rd International Workshop on Natural Scientific Language Processing (NSLP 2026) website repository
+# NSLP-SDP 2027: Workshop on AI for the Scholarly Web
 
-The repository contains all code for NSLP workshop 2026 website.
+The repository contains all code for NSLP-SDP workshop 2027 website.
 
 
